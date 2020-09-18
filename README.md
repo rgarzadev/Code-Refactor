@@ -1,7 +1,7 @@
-# Project Title:
+# Project Title and Link:
 
-SEO Code Refactor
-
+Title: SEO Code Refactor
+Link: https://rgarzadev.github.io/SEO-Code-Refactor
 
 ## Description:
 
