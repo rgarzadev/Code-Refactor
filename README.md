@@ -1,9 +1,12 @@
-# Project Title and Link:
+# Project Title:
 
-Title: SEO Code Refactor
+SEO Code Refactor
+
+## Project Link:
+
 Link: https://rgarzadev.github.io/SEO-Code-Refactor
 
-## Description:
+### Description:
 
 The goal of this project was to refactor the existing HTML and CSS code of this website in order to optimize it for SEO and web accessibility standards.
 
@@ -14,7 +17,7 @@ Lastly, I consolidated and streamlined the CSS stylesheet, which included severa
 All of these tasks were to be completed without altering the browser display or degrading the functionality of the site.
 
 
-### To accomplish these objectives, I made the following changes:
+#### To accomplish these objectives, I made the following changes:
 
 - Replaced several <div> containers with semantic HTML elements to increase functionality with screen readers:
 
@@ -36,7 +39,7 @@ All of these tasks were to be completed without altering the browser display or 
 
 - Identified and cleaned up several self-closing tags for consistency and added some spacing between sections of code for readability and organizational purposes.
 
-#### Conclusions:
+##### Conclusions:
 
 - These taks were completed fairly easily with a bit of research and detective work to determine the best modifications and most effective ways of accomplishing them.
 
@@ -46,6 +49,6 @@ All of these tasks were to be completed without altering the browser display or 
 
 - If you have any suggestions as to other ways of further consolidating the CSS on this project, or ways of further improving the accessibilty of the HTML, please contact me with your ideas.
 
-# Contact:
+###### Contact:
 
 ryangarza@live.com
