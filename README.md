@@ -19,17 +19,17 @@ All of these tasks were to be completed without altering the browser display or 
 
 #### To accomplish these objectives, I made the following changes:
 
-- Replaced several <div> containers with semantic HTML elements to increase functionality with screen readers:
+- Replaced several div containers with semantic HTML elements to increase functionality with screen readers:
 
-    - Added <nav> semantic HTML tags to navigation section.
+    - Added "nav" semantic HTML tags to navigation section.
 
-    - Added <main> semantic HTML tags around main content area.
+    - Added "main" semantic HTML tags around main content area.
 
-    - Added <aside> semantic tags to sidebar content area
+    - Added "aside" semantic tags to sidebar content area
 
     - Added alt property tags to all images
 
-- Replaced footer section <div> with <footer> semantic HTML tags
+- Replaced footer section div with "footer" semantic HTML tags
 
 - Identified the issue with the broken navigation link:
     
